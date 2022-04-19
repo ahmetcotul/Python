@@ -1,4 +1,4 @@
-#Python Trip for String
+#Python Trim for String
 
 greeting = "xxxHello Worldyyyy"
 
