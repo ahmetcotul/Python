@@ -1,4 +1,4 @@
-#Python Trim for String
+#Trim for String
 
 greeting = "xxxHello Worldyyyy"
 
